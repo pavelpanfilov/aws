@@ -1,0 +1,31 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+
+# .hcl lock files
+*.lock.hcl
+
+# .out files
+*.out
+
+# .plan files
+*.plan
+.idea/
+
+# MAC OS files
+**.DS_Store
+
+# Vim swap files
+*.swp
+
+# Archives
+*.zip
+
+# VSCode Files
+**.vscode
